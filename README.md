@@ -1,4 +1,4 @@
-[https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#fromView=search&page=1&position=48&uuid=1b83a272-742e-438c-9b61-263be30a8b7b](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1709844880~exp=1709845480~hmac=db5201a80c3b1e7128f9b87ac53aedc5e101455aedc52419868a7687dd961b05)
+https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1709844880~exp=1709845480~hmac=db5201a80c3b1e7128f9b87ac53aedc5e101455aedc52419868a7687dd961b05
 <h1 align="center">Hi 👋, I'm Mritunjay Rai</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 https://media.giphy.com/media/lOs74pwVzfZElO3VDY/giphy.gif
