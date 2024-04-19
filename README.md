@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; width = 100%">
   <img src = https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1709844880~exp=1709845480~hmac=db5201a80c3b1e7128f9b87ac53aedc5e101455aedc52419868a7687dd961b05 />
 </div>
 <h1 align="center">Hi 👋, I'm Mritunjay Rai</h1>
