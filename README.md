@@ -1,5 +1,6 @@
-<img src = "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1709844880~exp=1709845480~hmac=db5201a80c3b1e7128f9b87ac53aedc5e101455aedc52419868a7687dd961b05" />
 <h1 align="center">Hi 👋, I'm Mritunjay Rai</h1>
+<img src = "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1709844880~exp=1709845480~hmac=db5201a80c3b1e7128f9b87ac53aedc5e101455aedc52419868a7687dd961b05" />
+
 <h3 align="center">A passionate Web developer from India</h3>
 <!-- <img src="https://giphy.com/embed/lOs74pwVzfZElO3VDY" width="480" height="480" class="giphy-embed" allowFullScreen /> -->
 
