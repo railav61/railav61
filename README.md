@@ -16,7 +16,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=railav61&theme=gotham&hide_border=false" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=railav61&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=railav61&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=railav61&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=railav61&theme=radical&no-frame=false&no-bg=true&margin-w=4)
