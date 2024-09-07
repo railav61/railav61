@@ -23,7 +23,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=railav61&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </p>
 ---
