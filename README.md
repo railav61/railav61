@@ -75,7 +75,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=railav61&layout=compact&theme=dark" alt="railav61's GitHub stats" width="48%" />
-<!--   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=railav61&layout=compact&theme=dark) -->
   
 </div>
 
@@ -84,8 +83,8 @@
 ## 📅 Commit History
 
 <div align="center">
-  
-  ![Commit History](https://github-readme-stats.vercel.app/api/wakatime?username=railav61&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=railav61&theme=dark" alt="railav61's GitHub stats" width="48%" />
+<!--   ![Commit History](https://github-readme-stats.vercel.app/api/wakatime?username=railav61&theme=dark) -->
 </div>
 
 ---
