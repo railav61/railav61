@@ -83,7 +83,8 @@
 ## 📅 Commit History
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=railav61&theme=dark" alt="railav61's GitHub stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=railav61&theme=dark" alt="railav61's GitHub stats" width="100%" />
 <!--   ![Commit History](https://github-readme-stats.vercel.app/api/wakatime?username=railav61&theme=dark) -->
 </div>
 
