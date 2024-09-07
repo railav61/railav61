@@ -49,13 +49,14 @@
 ## 🌟 Featured Projects
 
 <div align="center" style="background-color: #2d2d2d; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
-  ### [📚 coursxyz](https://github.com/railav61/coursxyz)
+  
+  ### [📚 coursxyz]
   > A course-selling web app built with the **MERN stack** featuring user authentication, a payment gateway, and a dynamic course catalog.<br><br>
 
-  ### [💰 FundDonate](https://github.com/railav61/FundDonate)
+  ### [💰 FundDonate]
   > A public funds collection webpage using the **MERN stack**, featuring a dynamic title page, customizable login options, secure payment gateway integration, and data collection.<br><br>
 
-  ### [📦 Delivery Time Prediction Model](https://github.com/railav61/delivery-time-prediction)
+  ### [📦 Delivery Time Prediction Model]
   > A machine learning model for predicting delivery times based on various factors, with a frontend built using **ReactJS**.<br><br>
 </div>
 
