@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611zbu61ekug9ynox49z4i1wsu6g835s2wbsanfgvrb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="20%" />
 </div>
+
 # 💫 About Me:
 4th-year B.Tech student in Computer Science and Engineering (CSE).<br>Passionate about Full Stack Development using the MERN stack.<br>Experienced in React, Node.js, Java, Spring Boot, and Three.js.<br>Strong in Data Structures and Algorithms (DSA) and Problem-Solving.<br>I love to help others and make a positive impact!
 
